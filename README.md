@@ -1,1 +1,6 @@
-Tech Blog
+## Tech Blog
+
+To run 
+```
+npm run dev
+```
